@@ -104,9 +104,9 @@ This project is designed to strengthen concepts of:
 
 ## 📅 Development Roadmap
 
-* [ ] Project Planning
-* [ ] System Design
-* [ ] Project Structure
+* [x] Project Planning
+* [x] System Design
+* [x] Project Structure
 * [ ] Authentication Module
 * [ ] Password Hashing
 * [ ] Session Management

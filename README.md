@@ -104,14 +104,14 @@ This project is designed to strengthen concepts of:
 
 ## 📅 Development Roadmap
 
-* [x] Project Planning
-* [x] System Design
-* [x] Project Structure
-* [ ] Authentication Module
-* [ ] Password Hashing
+* [X] Project Planning
+* [X] System Design
+* [X] Project Structure
+* [X] Authentication Module
+* [X] Password Hashing
 * [ ] Session Management
 * [ ] Student CRUD
-* [ ] JSON Data Persistence
+* [X] JSON Data Persistence
 * [ ] Input Validation
 * [ ] Integration Testing
 * [ ] FastAPI Migration

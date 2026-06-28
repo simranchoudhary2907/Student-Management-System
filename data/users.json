@@ -1,0 +1,27 @@
+[
+    {
+        "username": "simran",
+        "password": "abc123hash",
+        "role": "student"
+    },
+    {
+        "username": "admin",
+        "password": "xyz456hash",
+        "role": "admin"
+    },
+    {
+        "username": "xyz",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "student"
+    },
+    {
+        "username": "abc",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "student"
+    },
+    {
+        "username": "suman",
+        "password": "e6f095e985e6762f1538b47ff1abda58dbe8ce088b16d8a5744fc179e9a2fc16",
+        "role": "student"
+    }
+]
